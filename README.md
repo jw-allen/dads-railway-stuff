@@ -1,6 +1,6 @@
 #  My Dad's model railway stuff
 ## About
-My beloved dad left behind a lot of model railway hobby kits and pieces when he died. There are pictures below.
+My beloved dad left behind a lot of model railway hobby kits and pieces when he died. [**There are pictures below.**](#pictures)
 
 We would love for someone else to enjoy them on his behalf. And if we get back space in the shed, then we won't complain.
 * Everything is **OO-grade**.
