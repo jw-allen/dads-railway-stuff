@@ -18,7 +18,7 @@
 # Batch 1
 <section>
     <h2>Lot 001</h2>
-    <img src="pic/train-001.jpg" alt="Lot 001">
+    <img src="../pic/train-001.jpg" alt="Lot 001">
 </section>
 <section>
     <h2>Lot 002</h2>
