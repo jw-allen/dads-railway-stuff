@@ -1,6 +1,8 @@
 #  My Dad's model railway stuff
 ## About
-My beloved dad left behind a lot of model railway hobby kits and pieces when he died. [**There are pictures below.**](#pictures)
+My beloved dad left behind a lot of model railway hobby kits and pieces when he died.
+
+[**There are pictures below.**](#pictures)
 
 We would love for someone else to enjoy them on his behalf. And if we get back space in the shed, then we won't complain.
 * Everything is **OO-grade**.
@@ -17,6 +19,24 @@ Thanks very much
 &mdash;Joe
 
 ## Pictures
+
+These pictures all take a while to load. If you prefer, you can few them in batches.
+1.  [**Lots 001&ndash;015**](/Batch-01.md)
+2.  [**Lots 016&ndash;030**](/Batch-02.md)
+3.  [**Lots 031&ndash;045**](/Batch-03.md)
+4.  [**Lots 046&ndash;052**](/Batch-04.md)
+5.  [**Lots 053&ndash;058**](/Batch-05.md)
+6.  [**Lots 059&ndash;063**](/Batch-06.md)
+7.  [**Lots 064&ndash;067**](/Batch-07.md)
+8.  [**Lots 068&ndash;100**](/Batch-08.md)
+9.  [**Lots 101&ndash;126**](/Batch-09.md)
+10. [**Lots 127&ndash;130**](/Batch-10.md)
+11. [**Lots 131&ndash;139**](/Batch-11.md)
+12. [**Lots 140&ndash;144**](/Batch-12.md)
+13. [**Lots 145&ndash;149**](/Batch-13.md)
+14. [**Lots 150&ndash;153**](/Batch-14.md)
+15. [**Lots 154&ndash;165**](/Batch-15.md)
+
 <section>
     <h3>Lot 001</h3>
     <img src="pic/train-001.jpg" alt="Lot 001">
