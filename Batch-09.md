@@ -41,5 +41,5 @@
     <img src="pic/train-125a.jpg" alt="Lot 125, photo A"><img src="pic/train-125b.jpg" alt="Lot 125, photo B"><img src="pic/train-125c.jpg" alt="Lot 125, photo C"><img src="pic/train-125D.jpg" alt="Lot 125, photo D"><img src="pic/train-125e.jpg" alt="Lot 125, photo E"></section>
 <section>
     <h2>Lot 126</h2>
-    <img src="pic/train-126a.jpg" alt="Lot 126, photo A"><img src="pic/train-126b.jpg" alt="Lot 126, photo B"><img src="pic/train-126c.jpg" alt="Lot 126, photo C"><img src="pic/train-126D.jpg" alt="Lot 126, photo D">
+    <img src="pic/train-126a.jpg" alt="Lot 126, photo A"><img src="pic/train-126b.jpg" alt="Lot 126, photo B"><img src="pic/train-126c.jpg" alt="Lot 126, photo C"><img src="pic/train-126d.jpg" alt="Lot 126, photo D">
 </section>
