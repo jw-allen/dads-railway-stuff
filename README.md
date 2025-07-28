@@ -18,7 +18,9 @@ Thanks very much
 
 &mdash;Joe
 
-## Pictures
+##  Pictures
+
+### Navigation
 
 These pictures all take a while to load. If you prefer, you can few them in batches.
 1.  [**Lots 001&ndash;015**](/Batch-01.md)
@@ -341,7 +343,6 @@ These pictures all take a while to load. If you prefer, you can few them in batc
 </section>
 <section>
     <h3>Lot 067</h3>
-    <img src="pic/train-067.jpg" alt="Lot 067">
     <img src="pic/train-067a.jpg" alt="Lot 067, photo A">
     <img src="pic/train-067b.jpg" alt="Lot 067, photo B">
     <img src="pic/train-067c.jpg" alt="Lot 067, photo C">
@@ -417,7 +418,6 @@ These pictures all take a while to load. If you prefer, you can few them in batc
     <h3>Lot 124</h3>
     <img src="pic/train-124.jpg" alt="Lot 124">
 </section>
-
 <section>
     <h3>Lot 125</h3>
     <img src="pic/train-125a.jpg" alt="Lot 125, photo A"><img src="pic/train-125b.jpg" alt="Lot 125, photo B"><img src="pic/train-125c.jpg" alt="Lot 125, photo C"><img src="pic/train-125D.jpg" alt="Lot 125, photo D"><img src="pic/train-125e.jpg" alt="Lot 125, photo E"></section>
@@ -440,8 +440,6 @@ These pictures all take a while to load. If you prefer, you can few them in batc
     <h3>Lot 130</h3>
     <img src="pic/train-130a.jpg" alt="Lot 130, photo A"><img src="pic/train-130b.jpg" alt="Lot 130, photo B"><img src="pic/train-130c.jpg" alt="Lot 130, photo C">
 </section>
-
-
 <section>
     <h3>Lots 131, 132, 133, 134, 135</h3>
     <img src="pic/train-131-132a-133-134-135.jpg" alt="Lot 131 to 135 inclusive, photo A">
