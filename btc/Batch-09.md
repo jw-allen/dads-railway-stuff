@@ -18,28 +18,28 @@
 # Batch 9
 <section>
     <h2>Lots 101, 102, 103, 104, 105, 106</h2>
-    <img src="pic/train-101-102-103-104-105-106.jpg" alt="Lots 101 to 106, inclusive">
+    <img src="../pic/train-101-102-103-104-105-106.jpg" alt="Lots 101 to 106, inclusive">
 </section>
 <section>
     <h2>Lots 107, 108, 109, 110, 111, 112, 113, 114, 115</h2>
-    <img src="pic/train-107-108-109-110-111-112-113-114-115.jpg" alt="Lots 107 to 115, inclusive">
+    <img src="../pic/train-107-108-109-110-111-112-113-114-115.jpg" alt="Lots 107 to 115, inclusive">
 </section>
 <section>
     <h2>Lots 116, 117, 118</h2>
-    <img src="pic/train-116-117-118.jpg" alt="Lots 116 to 118, inclusive">
+    <img src="../pic/train-116-117-118.jpg" alt="Lots 116 to 118, inclusive">
 </section>
 <section>
     <h2>Lots 119, 120, 121, 122, 123</h2>
-    <img src="pic/train-119-120-121-122-123.jpg" alt="Lots 119 to 123, inclusive">
+    <img src="../pic/train-119-120-121-122-123.jpg" alt="Lots 119 to 123, inclusive">
 </section>
 <section>
     <h2>Lot 124</h2>
-    <img src="pic/train-124.jpg" alt="Lot 124">
+    <img src="../pic/train-124.jpg" alt="Lot 124">
 </section>
 <section>
     <h2>Lot 125</h2>
-    <img src="pic/train-125a.jpg" alt="Lot 125, photo A"><img src="pic/train-125b.jpg" alt="Lot 125, photo B"><img src="pic/train-125c.jpg" alt="Lot 125, photo C"><img src="pic/train-125D.jpg" alt="Lot 125, photo D"><img src="pic/train-125e.jpg" alt="Lot 125, photo E"></section>
+    <img src="../pic/train-125a.jpg" alt="Lot 125, photo A"><img src="../pic/train-125b.jpg" alt="Lot 125, photo B"><img src="../pic/train-125c.jpg" alt="Lot 125, photo C"><img src="../pic/train-125D.jpg" alt="Lot 125, photo D"><img src="../pic/train-125e.jpg" alt="Lot 125, photo E"></section>
 <section>
     <h2>Lot 126</h2>
-    <img src="pic/train-126a.jpg" alt="Lot 126, photo A"><img src="pic/train-126b.jpg" alt="Lot 126, photo B"><img src="pic/train-126c.jpg" alt="Lot 126, photo C"><img src="pic/train-126d.jpg" alt="Lot 126, photo D">
+    <img src="../pic/train-126a.jpg" alt="Lot 126, photo A"><img src="../pic/train-126b.jpg" alt="Lot 126, photo B"><img src="../pic/train-126c.jpg" alt="Lot 126, photo C"><img src="../pic/train-126d.jpg" alt="Lot 126, photo D">
 </section>

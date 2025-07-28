@@ -18,50 +18,50 @@
 # Batch 8
 <section>
     <h2>Lot 068</h2>
-    <img src="pic/train-068.jpg" alt="Lot 068">
-    <img src="pic/train-068a.jpg" alt="Lot 068, photo A">
-    <img src="pic/train-068b.jpg" alt="Lot 068, photo B">
-    <img src="pic/train-068c.jpg" alt="Lot 068, photo C">
+    <img src="../pic/train-068.jpg" alt="Lot 068">
+    <img src="../pic/train-068a.jpg" alt="Lot 068, photo A">
+    <img src="../pic/train-068b.jpg" alt="Lot 068, photo B">
+    <img src="../pic/train-068c.jpg" alt="Lot 068, photo C">
 </section>
 <section>
     <h2>Lot 069</h2>
-    <img src="pic/train-069a.jpg" alt="Lot 069, photo A">
-    <img src="pic/train-069b.jpg" alt="Lot 069, photo B">
-    <img src="pic/train-069c.jpg" alt="Lot 069, photo C">
+    <img src="../pic/train-069a.jpg" alt="Lot 069, photo A">
+    <img src="../pic/train-069b.jpg" alt="Lot 069, photo B">
+    <img src="../pic/train-069c.jpg" alt="Lot 069, photo C">
 </section>
 <section>
     <h2>Lots 070, 071, 072, 073</h2>
-    <img src="pic/train-070-071-072-073.jpg" alt="Lots 070 to 073, inclusive">
+    <img src="../pic/train-070-071-072-073.jpg" alt="Lots 070 to 073, inclusive">
 </section>
 <section>
     <h2>Lots 074, 075, 076, 077, 078</h2>
-    <img src="pic/train-074-075-076-077-078.jpg" alt="Lots 074 to 078, inclusive">
+    <img src="../pic/train-074-075-076-077-078.jpg" alt="Lots 074 to 078, inclusive">
 </section>
 <section>
     <h2>Lots 079, 080, 081, 082, 083, 084</h2>
-    <img src="pic/train-079-080-081-082-083-084.jpg" alt="Lots 079 to 084, inclusive">
+    <img src="../pic/train-079-080-081-082-083-084.jpg" alt="Lots 079 to 084, inclusive">
 </section>
 <section>
     <h2>Lots 085, 086, 087, 088, 089, 090, 091</h2>
-    <img src="pic/train-085-086-087-088-089-090-091.jpg" alt="Lots 085 to 091 inclusive">
+    <img src="../pic/train-085-086-087-088-089-090-091.jpg" alt="Lots 085 to 091 inclusive">
 </section>
 <section>
     <h2>Lots 092, 093, 094, 095</h2>
-    <img src="pic/train-092-093-094-095.jpg" alt="Lots 092 to 095, inclusive">
+    <img src="../pic/train-092-093-094-095.jpg" alt="Lots 092 to 095, inclusive">
 </section>
 <section>
     <h2>Lot 096</h2>
-    <img src="pic/train-096.jpg" alt="Lot 096">
+    <img src="../pic/train-096.jpg" alt="Lot 096">
 </section>
 <section>
     <h2>Lot 097</h2>
-    <img src="pic/train-097.jpg" alt="Lot 097">
+    <img src="../pic/train-097.jpg" alt="Lot 097">
 </section>
 <section>
     <h2>Lots 098, 099</h2>
-    <img src="pic/train-098-099.jpg" alt="Lots 098 and 099">
+    <img src="../pic/train-098-099.jpg" alt="Lots 098 and 099">
 </section>
 <section>
     <h2>Lot 100</h2>
-    <img src="pic/train-100.jpg" alt="Lot 100">
+    <img src="../pic/train-100.jpg" alt="Lot 100">
 </section>

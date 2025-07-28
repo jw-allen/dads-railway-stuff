@@ -18,38 +18,38 @@
 # Batch 4
 <section>
     <h2>Lot 046</h2>
-    <img src="pic/train-046.jpg" alt="Lot 046">
+    <img src="../pic/train-046.jpg" alt="Lot 046">
 </section>
 <section>
     <h2>Lot 047</h2>
-    <img src="pic/train-047.jpg" alt="Lot 047">
+    <img src="../pic/train-047.jpg" alt="Lot 047">
 </section>
 <section>
     <h2>Lot 048</h2>
-    <img src="pic/train-048a.jpg" alt="Lot 048, photo A">
-    <img src="pic/train-048b.jpg" alt="Lot 048, photo B">
-    <img src="pic/train-048c.jpg" alt="Lot 048, photo C">
-    <img src="pic/train-048d.jpg" alt="Lot 048, photo D">
+    <img src="../pic/train-048a.jpg" alt="Lot 048, photo A">
+    <img src="../pic/train-048b.jpg" alt="Lot 048, photo B">
+    <img src="../pic/train-048c.jpg" alt="Lot 048, photo C">
+    <img src="../pic/train-048d.jpg" alt="Lot 048, photo D">
 </section>
 <section>
     <h2>Lot 049</h2>
-    <img src="pic/train-049.jpg" alt="Lot 049">
+    <img src="../pic/train-049.jpg" alt="Lot 049">
 </section>
 <section>
     <h2>Lot 050</h2>
-    <img src="pic/train-050a.jpg" alt="Lot 050, photo A">
-    <img src="pic/train-050b.jpg" alt="Lot 050, photo B">
-    <img src="pic/train-050c.jpg" alt="Lot 050, photo C">
+    <img src="../pic/train-050a.jpg" alt="Lot 050, photo A">
+    <img src="../pic/train-050b.jpg" alt="Lot 050, photo B">
+    <img src="../pic/train-050c.jpg" alt="Lot 050, photo C">
 </section>
 <section>
     <h2>Lot 051</h2>
-    <img src="pic/train-051a.jpg" alt="Lot 051, photo A">
-    <img src="pic/train-051b.jpg" alt="Lot 051, photo B">
-    <img src="pic/train-051c.jpg" alt="Lot 051, photo C">
+    <img src="../pic/train-051a.jpg" alt="Lot 051, photo A">
+    <img src="../pic/train-051b.jpg" alt="Lot 051, photo B">
+    <img src="../pic/train-051c.jpg" alt="Lot 051, photo C">
 </section>
 <section>
     <h2>Lot 052</h2>
-    <img src="pic/train-052a.jpg" alt="Lot 052, photo A">
-    <img src="pic/train-052b.jpg" alt="Lot 052, photo B">
-    <img src="pic/train-052c.jpg" alt="Lot 052, photo C">
+    <img src="../pic/train-052a.jpg" alt="Lot 052, photo A">
+    <img src="../pic/train-052b.jpg" alt="Lot 052, photo B">
+    <img src="../pic/train-052c.jpg" alt="Lot 052, photo C">
 </section>

@@ -18,31 +18,31 @@
 # Batch 6
 <section>
     <h2>Lot 059</h2>
-    <img src="pic/train-059a.jpg" alt="Lot 059, photo A">
-    <img src="pic/train-059b.jpg" alt="Lot 059, photo B">
-    <img src="pic/train-059c.jpg" alt="Lot 059, photo C">
+    <img src="../pic/train-059a.jpg" alt="Lot 059, photo A">
+    <img src="../pic/train-059b.jpg" alt="Lot 059, photo B">
+    <img src="../pic/train-059c.jpg" alt="Lot 059, photo C">
 </section>
 <section>
     <h2>Lot 060</h2>
-    <img src="pic/train-060a.jpg" alt="Lot 060, photo A">
-    <img src="pic/train-060b.jpg" alt="Lot 060, photo B">
-    <img src="pic/train-060c.jpg" alt="Lot 060, photo C">
+    <img src="../pic/train-060a.jpg" alt="Lot 060, photo A">
+    <img src="../pic/train-060b.jpg" alt="Lot 060, photo B">
+    <img src="../pic/train-060c.jpg" alt="Lot 060, photo C">
 </section>
 <section>
     <h2>Lot 061</h2>
-    <img src="pic/train-061a.jpg" alt="Lot 061, photo A">
-    <img src="pic/train-061b.jpg" alt="Lot 061, photo B">
-    <img src="pic/train-061c.jpg" alt="Lot 061, photo C">
+    <img src="../pic/train-061a.jpg" alt="Lot 061, photo A">
+    <img src="../pic/train-061b.jpg" alt="Lot 061, photo B">
+    <img src="../pic/train-061c.jpg" alt="Lot 061, photo C">
 </section>
 <section>
     <h2>Lot 062</h2>
-    <img src="pic/train-062a.jpg" alt="Lot 062, photo A">
-    <img src="pic/train-062b.jpg" alt="Lot 062, photo B">
-    <img src="pic/train-062c.jpg" alt="Lot 062, photo C">
+    <img src="../pic/train-062a.jpg" alt="Lot 062, photo A">
+    <img src="../pic/train-062b.jpg" alt="Lot 062, photo B">
+    <img src="../pic/train-062c.jpg" alt="Lot 062, photo C">
 </section>
 <section>
     <h2>Lot 063</h2>
-    <img src="pic/train-063a.jpg" alt="Lot 063, photo A">
-    <img src="pic/train-063b.jpg" alt="Lot 063, photo B">
-    <img src="pic/train-063c.jpg" alt="Lot 063, photo C">
+    <img src="../pic/train-063a.jpg" alt="Lot 063, photo A">
+    <img src="../pic/train-063b.jpg" alt="Lot 063, photo B">
+    <img src="../pic/train-063c.jpg" alt="Lot 063, photo C">
 </section>

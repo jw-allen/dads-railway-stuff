@@ -18,44 +18,44 @@
 # Batch 15
 <section>
     <h2>Lot 154</h2>
-    <img src="pic/train-154.jpg" alt="Lot 154">
+    <img src="../pic/train-154.jpg" alt="Lot 154">
 </section>
 <section>
     <h2>Lots 155, 156, 157</h2>
-    <img src="pic/train-155-156-157.jpg" alt="Lots 155 to 157, inclusive">
+    <img src="../pic/train-155-156-157.jpg" alt="Lots 155 to 157, inclusive">
 </section>
 <section>
     <h2>Lots 158, 159, 160</h2>
-    <img src="pic/train-158a-159-160.jpg" alt="Lots 158 to 160, inclusive, photo A">
-    <img src="pic/train-158b-159-160.jpg" alt="Lots 158 to 160, inclusive, photo B">
+    <img src="../pic/train-158a-159-160.jpg" alt="Lots 158 to 160, inclusive, photo A">
+    <img src="../pic/train-158b-159-160.jpg" alt="Lots 158 to 160, inclusive, photo B">
 </section>
 <section>
     <h2>Lot 161</h2>
-    <img src="pic/train-161a.jpg" alt="Lot 161, photo A">
-    <img src="pic/train-161b.jpg" alt="Lot 161, photo B">
+    <img src="../pic/train-161a.jpg" alt="Lot 161, photo A">
+    <img src="../pic/train-161b.jpg" alt="Lot 161, photo B">
 </section>
 <section>
     <h2>Lot 162</h2>
-    <img src="pic/train-162a.jpg" alt="Lot 162, photo A">
-    <img src="pic/train-162b.jpg" alt="Lot 162, photo B">
-    <img src="pic/train-162c.jpg" alt="Lot 162, photo C">
-    <img src="pic/train-162d.jpg" alt="Lot 162, photo D">
+    <img src="../pic/train-162a.jpg" alt="Lot 162, photo A">
+    <img src="../pic/train-162b.jpg" alt="Lot 162, photo B">
+    <img src="../pic/train-162c.jpg" alt="Lot 162, photo C">
+    <img src="../pic/train-162d.jpg" alt="Lot 162, photo D">
 </section>
 <section>
     <h2>Lot 163</h2>
-    <img src="pic/train-163a.jpg" alt="Lot 163, photo A">
-    <img src="pic/train-163b.jpg" alt="Lot 163, photo B">
-    <img src="pic/train-163c.jpg" alt="Lot 163, photo C">
+    <img src="../pic/train-163a.jpg" alt="Lot 163, photo A">
+    <img src="../pic/train-163b.jpg" alt="Lot 163, photo B">
+    <img src="../pic/train-163c.jpg" alt="Lot 163, photo C">
 </section>
 <section>
     <h2>Lot 164</h2>
-    <img src="pic/train-164a.jpg" alt="Lot 164, photo A">
-    <img src="pic/train-164b.jpg" alt="Lot 164, photo B">
-    <img src="pic/train-164c.jpg" alt="Lot 164, photo C">
+    <img src="../pic/train-164a.jpg" alt="Lot 164, photo A">
+    <img src="../pic/train-164b.jpg" alt="Lot 164, photo B">
+    <img src="../pic/train-164c.jpg" alt="Lot 164, photo C">
 </section>
 <section>
     <h2>Lot 165</h2>
-    <img src="pic/train-165a.jpg" alt="Lot 165, photo A">
-    <img src="pic/train-165b.jpg" alt="Lot 165, photo B">
-    <img src="pic/train-165c.jpg" alt="Lot 165, photo C">
+    <img src="../pic/train-165a.jpg" alt="Lot 165, photo A">
+    <img src="../pic/train-165b.jpg" alt="Lot 165, photo B">
+    <img src="../pic/train-165c.jpg" alt="Lot 165, photo C">
 </section>

@@ -18,61 +18,61 @@
 # Batch 2
 <section>
     <h2>Lot 016</h2>
-    <img src="pic/train-016.jpg" alt="Lot 016">
+    <img src="../pic/train-016.jpg" alt="Lot 016">
 </section>
 <section>
     <h2>Lot 017</h2>
-    <img src="pic/train-017.jpg" alt="Lot 017">
+    <img src="../pic/train-017.jpg" alt="Lot 017">
 </section>
 <section>
     <h2>Lot 018</h2>
-    <img src="pic/train-018.jpg" alt="Lot 018">
+    <img src="../pic/train-018.jpg" alt="Lot 018">
 </section>
 <section>
     <h2>Lot 019</h2>
-    <img src="pic/train-019.jpg" alt="Lot 019">
+    <img src="../pic/train-019.jpg" alt="Lot 019">
 </section>
 <section>
     <h2>Lot 020</h2>
-    <img src="pic/train-020.jpg" alt="Lot 020">
+    <img src="../pic/train-020.jpg" alt="Lot 020">
 </section>
 <section>
     <h2>Lot 021</h2>
-    <img src="pic/train-021.jpg" alt="Lot 021">
+    <img src="../pic/train-021.jpg" alt="Lot 021">
 </section>
 <section>
     <h2>Lot 022</h2>
-    <img src="pic/train-022.jpg" alt="Lot 022">
+    <img src="../pic/train-022.jpg" alt="Lot 022">
 </section>
 <section>
     <h2>Lot 023</h2>
-    <img src="pic/train-023.jpg" alt="Lot 023">
+    <img src="../pic/train-023.jpg" alt="Lot 023">
 </section>
 <section>
     <h2>Lot 024</h2>
-    <img src="pic/train-024.jpg" alt="Lot 024">
+    <img src="../pic/train-024.jpg" alt="Lot 024">
 </section>
 <section>
     <h2>Lot 025</h2>
-    <img src="pic/train-025.jpg" alt="Lot 025">
+    <img src="../pic/train-025.jpg" alt="Lot 025">
 </section>
 <section>
     <h2>Lot 026</h2>
-    <img src="pic/train-026.jpg" alt="Lot 026">
+    <img src="../pic/train-026.jpg" alt="Lot 026">
 </section>
 <section>
     <h2>Lot 027</h2>
-    <img src="pic/train-027.jpg" alt="Lot 027">
+    <img src="../pic/train-027.jpg" alt="Lot 027">
 </section>
 <section>
     <h2>Lot 028</h2>
-    <img src="pic/train-028.jpg" alt="Lot 028">
+    <img src="../pic/train-028.jpg" alt="Lot 028">
 </section>
 <section>
     <h2>Lot 029</h2>
-    <img src="pic/train-029.jpg" alt="Lot 029">
+    <img src="../pic/train-029.jpg" alt="Lot 029">
 </section>
 <section>
     <h2>Lot 030</h2>
-    <img src="pic/train-030.jpg" alt="Lot 030">
+    <img src="../pic/train-030.jpg" alt="Lot 030">
 </section>

@@ -19,16 +19,16 @@
 
 <section>
     <h2>Lot 127</h2>
-    <img src="pic/train-127a.jpg" alt="Lot 127, photo A"><img src="pic/train-127b.jpg" alt="Lot 127, photo B"><img src="pic/train-127c.jpg" alt="Lot 127, photo C"><img src="pic/train-127D.jpg" alt="Lot 127, photo D"><img src="pic/train-127e.jpg" alt="Lot 127, photo E"></section>
+    <img src="../pic/train-127a.jpg" alt="Lot 127, photo A"><img src="../pic/train-127b.jpg" alt="Lot 127, photo B"><img src="../pic/train-127c.jpg" alt="Lot 127, photo C"><img src="../pic/train-127D.jpg" alt="Lot 127, photo D"><img src="../pic/train-127e.jpg" alt="Lot 127, photo E"></section>
 <section>
     <h2>Lot 128</h2>
-    <img src="pic/train-128a.jpg" alt="Lot 128, photo A"><img src="pic/train-128b.jpg" alt="Lot 128, photo B"><img src="pic/train-128c.jpg" alt="Lot 128, photo C"><img src="pic/train-128D.jpg" alt="Lot 128, photo D">
+    <img src="../pic/train-128a.jpg" alt="Lot 128, photo A"><img src="../pic/train-128b.jpg" alt="Lot 128, photo B"><img src="../pic/train-128c.jpg" alt="Lot 128, photo C"><img src="../pic/train-128D.jpg" alt="Lot 128, photo D">
 </section>
 <section>
     <h2>Lot 129</h2>
-    <img src="pic/train-129a.jpg" alt="Lot 129, photo A"><img src="pic/train-129b.jpg" alt="Lot 129, photo B"><img src="pic/train-129c.jpg" alt="Lot 129, photo C"><img src="pic/train-129D.jpg" alt="Lot 129, photo D">
+    <img src="../pic/train-129a.jpg" alt="Lot 129, photo A"><img src="../pic/train-129b.jpg" alt="Lot 129, photo B"><img src="../pic/train-129c.jpg" alt="Lot 129, photo C"><img src="../pic/train-129D.jpg" alt="Lot 129, photo D">
 </section>
 <section>
     <h2>Lot 130</h2>
-    <img src="pic/train-130a.jpg" alt="Lot 130, photo A"><img src="pic/train-130b.jpg" alt="Lot 130, photo B"><img src="pic/train-130c.jpg" alt="Lot 130, photo C">
+    <img src="../pic/train-130a.jpg" alt="Lot 130, photo A"><img src="../pic/train-130b.jpg" alt="Lot 130, photo B"><img src="../pic/train-130c.jpg" alt="Lot 130, photo C">
 </section>

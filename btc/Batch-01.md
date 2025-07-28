@@ -22,57 +22,57 @@
 </section>
 <section>
     <h2>Lot 002</h2>
-    <img src="pic/train-002.jpg" alt="Lot 002">
+    <img src="../pic/train-002.jpg" alt="Lot 002">
 </section>
 <section>
     <h2>Lot 003</h2>
-    <img src="pic/train-003.jpg" alt="Lot 003">
+    <img src="../pic/train-003.jpg" alt="Lot 003">
 </section>
 <section>
     <h2>Lot 004</h2>
-    <img src="pic/train-004.jpg" alt="Lot 004">
+    <img src="../pic/train-004.jpg" alt="Lot 004">
 </section>
 <section>
     <h2>Lot 005</h2>
-    <img src="pic/train-005.jpg" alt="Lot 005">
+    <img src="../pic/train-005.jpg" alt="Lot 005">
 </section>
 <section>
     <h2>Lot 006</h2>
-    <img src="pic/train-006.jpg" alt="Lot 006">
+    <img src="../pic/train-006.jpg" alt="Lot 006">
 </section>
 <section>
     <h2>Lot 007</h2>
-    <img src="pic/train-007.jpg" alt="Lot 007">
+    <img src="../pic/train-007.jpg" alt="Lot 007">
 </section>
 <section>
     <h2>Lot 008</h2>
-    <img src="pic/train-008.jpg" alt="Lot 008">
+    <img src="../pic/train-008.jpg" alt="Lot 008">
 </section>
 <section>
     <h2>Lot 009</h2>
-    <img src="pic/train-009.jpg" alt="Lot 009">
+    <img src="../pic/train-009.jpg" alt="Lot 009">
 </section>
 <section>
     <h2>Lot 010</h2>
-    <img src="pic/train-010.jpg" alt="Lot 010">
+    <img src="../pic/train-010.jpg" alt="Lot 010">
 </section>
 <section>
     <h2>Lot 011</h2>
-    <img src="pic/train-011.jpg" alt="Lot 011">
+    <img src="../pic/train-011.jpg" alt="Lot 011">
 </section>
 <section>
     <h2>Lot 012</h2>
-    <img src="pic/train-012.jpg" alt="Lot 012">
+    <img src="../pic/train-012.jpg" alt="Lot 012">
 </section>
 <section>
     <h2>Lot 013</h2>
-    <img src="pic/train-013.jpg" alt="Lot 013">
+    <img src="../pic/train-013.jpg" alt="Lot 013">
 </section>
 <section>
     <h2>Lot 014</h2>
-    <img src="pic/train-014.jpg" alt="Lot 014">
+    <img src="../pic/train-014.jpg" alt="Lot 014">
 </section>
 <section>
     <h2>Lot 015</h2>
-    <img src="pic/train-015.jpg" alt="Lot 015">
+    <img src="../pic/train-015.jpg" alt="Lot 015">
 </section>

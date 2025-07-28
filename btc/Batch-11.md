@@ -18,33 +18,33 @@
 # Batch 11
 <section>
     <h2>Lots 131, 132, 133, 134, 135</h2>
-    <img src="pic/train-131-132a-133-134-135.jpg" alt="Lot 131 to 135 inclusive, photo A">
-    <img src="pic/train-131-132b-133-134-135.jpg" alt="Lot 131 to 135 inclusive, photo B">
+    <img src="../pic/train-131-132a-133-134-135.jpg" alt="Lot 131 to 135 inclusive, photo A">
+    <img src="../pic/train-131-132b-133-134-135.jpg" alt="Lot 131 to 135 inclusive, photo B">
 </section>
 <section>
     <h2>Lot 136</h2>
-    <img src="pic/train-136a.jpg" alt="Lot 136, photo A">
-    <img src="pic/train-136b.jpg" alt="Lot 136, photo B">
-    <img src="pic/train-136c.jpg" alt="Lot 136, photo C">
-    <img src="pic/train-136d.jpg" alt="Lot 136, photo D">
+    <img src="../pic/train-136a.jpg" alt="Lot 136, photo A">
+    <img src="../pic/train-136b.jpg" alt="Lot 136, photo B">
+    <img src="../pic/train-136c.jpg" alt="Lot 136, photo C">
+    <img src="../pic/train-136d.jpg" alt="Lot 136, photo D">
 </section>
 <section>
     <h2>Lot 137</h2>
-    <img src="pic/train-137a.jpg" alt="Lot 137, photo A">
-    <img src="pic/train-137b.jpg" alt="Lot 137, photo B">
-    <img src="pic/train-137c.jpg" alt="Lot 137, photo C">
+    <img src="../pic/train-137a.jpg" alt="Lot 137, photo A">
+    <img src="../pic/train-137b.jpg" alt="Lot 137, photo B">
+    <img src="../pic/train-137c.jpg" alt="Lot 137, photo C">
 </section>
 <section>
     <h2>Lot 138</h2>
-    <img src="pic/train-138a.jpg" alt="Lot 138, photo A">
-    <img src="pic/train-138b.jpg" alt="Lot 138, photo B">
-    <img src="pic/train-138c.jpg" alt="Lot 138, photo C">
-    <img src="pic/train-138d.jpg" alt="Lot 138, photo D">
+    <img src="../pic/train-138a.jpg" alt="Lot 138, photo A">
+    <img src="../pic/train-138b.jpg" alt="Lot 138, photo B">
+    <img src="../pic/train-138c.jpg" alt="Lot 138, photo C">
+    <img src="../pic/train-138d.jpg" alt="Lot 138, photo D">
 </section>
 <section>
     <h2>Lot 139</h2>
-    <img src="pic/train-139a.jpg" alt="Lot 139, photo A">
-    <img src="pic/train-139b.jpg" alt="Lot 139, photo B">
-    <img src="pic/train-139c.jpg" alt="Lot 139, photo C">
-    <img src="pic/train-139d.jpg" alt="Lot 139, photo D">
+    <img src="../pic/train-139a.jpg" alt="Lot 139, photo A">
+    <img src="../pic/train-139b.jpg" alt="Lot 139, photo B">
+    <img src="../pic/train-139c.jpg" alt="Lot 139, photo C">
+    <img src="../pic/train-139d.jpg" alt="Lot 139, photo D">
 </section>
