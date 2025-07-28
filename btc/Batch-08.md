@@ -18,7 +18,6 @@
 # Batch 8
 <section>
     <h2>Lot 068</h2>
-    <img src="../pic/train-068.jpg" alt="Lot 068">
     <img src="../pic/train-068a.jpg" alt="Lot 068, photo A">
     <img src="../pic/train-068b.jpg" alt="Lot 068, photo B">
     <img src="../pic/train-068c.jpg" alt="Lot 068, photo C">
