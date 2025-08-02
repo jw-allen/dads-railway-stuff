@@ -9,7 +9,7 @@ _(And if we get back space in the shed, then we won't complain.)_
 
 * Everything is **OO-grade**.
 * We're not asking for any money for us, but there are **two conditions**:
-  1. You [**make a donation to Rennie Grove Peace Hospice**](https://secure.renniegrovepeace.org/page/171804/donate/1), instead of paying us.<br>
+  1. Instead of paying us, you [**make a donation to Rennie Grove Peace Hospice**](https://secure.renniegrovepeace.org/page/171804/donate/1) in memory of Steve Allen.<br>
 _(The hospice was wonderful to my dad when he needed them, so please be as generous as you can be with any donation.)_
   2. You **don't sell** anything we give you. <br>_(We're don't want anyone, including us, to profit off of Dad's death.)_
 * Everything is offered in an **as-shown condition**&nbsp;&ndash; but, as you'll see, many kits are unopened.
