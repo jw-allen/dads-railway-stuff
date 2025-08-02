@@ -8,7 +8,7 @@ My family and I would love for someone else to enjoy them on his behalf.<br>
 _(And if we get back space in the shed, then we won't complain.)_
 
 * Everything is **OO-grade**.
-* It's all **free** to a good home, but with **two conditions**:
+* We're not asking for any money for us, but there are **two conditions**:
   1. You [**make a donation to Rennie Grove Peace Hospice**](https://secure.renniegrovepeace.org/page/171804/donate/1), instead of paying us.<br>
 _(The hospice was wonderful to my dad when he needed them, so please be as generous as you can be with any donation.)_
   2. You **don't sell** anything we give you. <br>_(We're don't want anyone, including us, to profit off of Dad's death.)_
@@ -24,7 +24,7 @@ Thanks very much
 
 ### Navigation
 
-These pictures all take a while to load. If you prefer, you can few them in batches.
+These pictures all take a while to load. If you prefer, you can vew them in batches.
 1.  [**Lots 001&ndash;015**](/btc/Batch-01.md)
 2.  [**Lots 016&ndash;030**](/btc/Batch-02.md)
 3.  [**Lots 031&ndash;045**](/btc/Batch-03.md)
