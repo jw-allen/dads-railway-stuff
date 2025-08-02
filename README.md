@@ -24,7 +24,7 @@ Thanks very much
 
 ### Navigation
 
-These pictures all take a while to load. If you prefer, you can vew them in batches.
+These pictures all take a while to load. If you prefer, you can view them in batches.
 1.  [**Lots 001&ndash;015**](/btc/Batch-01.md)
 2.  [**Lots 016&ndash;030**](/btc/Batch-02.md)
 3.  [**Lots 031&ndash;045**](/btc/Batch-03.md)
