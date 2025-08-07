@@ -2,29 +2,28 @@
 ## About
 My beloved dad, Steve, left behind a lot of model railway hobby kits and pieces when he died.
 
-[**There are pictures of the kits and pieces below.**](#pictures)
+[**Pictures of the kits and pieces are linked below.**](#pictures)
 
 My family and I would love for someone else to enjoy them on his behalf.<br>
-_(And if we get back space in the shed, then we won't complain.)_
+_(And if we get back space in the shed, then we won't complain!)_
 
 * Everything is **OO-grade**.
-* We're not asking for any money for us, but there are **two conditions**:
-  1. Instead of paying us, you [**make a donation to Rennie Grove Peace Hospice**](https://secure.renniegrovepeace.org/page/171804/donate/1) in memory of Steve Allen.<br>
-_(The hospice was wonderful to my dad when he needed them, so please be as generous as you can be with any donation.)_
-  2. You **don't sell** anything we give you. <br>_(We're don't want anyone, including us, to profit off of Dad's death.)_
+* We're not asking for any money for ourselves, but there are **two conditions**:
+  1. Instead of paying us, you [**make a donation to Rennie Grove Peace Hospice**](https://secure.renniegrovepeace.org/page/171804/donate/1) in memory of Steve Allen. <br>
+  _(We won't stipulate any particular price, but please be as generous as you can be with any donation. The hospice was wonderful to my dad when he needed them.)_
+  2. You **don't sell** anything we give you. <br>
+  _(We're don't want anyone, including us, to profit off of Dad's death.)_
 * Everything is offered in an **as-shown condition**&nbsp;&ndash; but, as you'll see, many kits are unopened.
 
-You should have my contact information already, so please let me know if you'd like any further information. I'll do what I can.
+You should have my contact information already, so please let me know which lot(s) you'd like, or if you'd like any further information. I'll do what I can to help you.
 
 Thanks very much
 
-&mdash;Joe
+&mdash;&nbsp;Joe
 
-##  Pictures
+##  Links to pictures
 
-### Navigation
-
-These pictures all take a while to load. If you prefer, you can view them in batches.
+The photos are collected into batches.
 1.  [**Lots 001&ndash;015**](/btc/Batch-01.md)
 2.  [**Lots 016&ndash;030**](/btc/Batch-02.md)
 3.  [**Lots 031&ndash;045**](/btc/Batch-03.md)
@@ -41,6 +40,7 @@ These pictures all take a while to load. If you prefer, you can view them in bat
 14. [**Lots 150&ndash;153**](/btc/Batch-14.md)
 15. [**Lots 154&ndash;165**](/btc/Batch-15.md)
 
+<!--
 <section>
     <h3>Lot 001</h3>
     <img src="pic/train-001.jpg" alt="Lot 001">
@@ -605,3 +605,4 @@ These pictures all take a while to load. If you prefer, you can view them in bat
     <img src="pic/train-165b.jpg" alt="Lot 165, photo B">
     <img src="pic/train-165c.jpg" alt="Lot 165, photo C">
 </section>
+-->
